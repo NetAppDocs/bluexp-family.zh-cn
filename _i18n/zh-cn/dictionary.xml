@@ -123,4 +123,50 @@
   <block id="25e0ccd395342edee81a87cd62b00061" category="sidebar">了解E系列系统、全面了解混合多云中的数据。</block>
   <block id="392d70ca39f31f10bd637936769788df" category="sidebar">StorageGRID</block>
   <block id="501e54577b674a9bc815f3f3bd429b90" category="sidebar">发现和管理StorageGRID 系统。</block>
+  <block id="2e2c03493705dc64283827f16a01fab5" category="summary">Cloud Volumes ONTAP 聚合支持Amazon EBS弹性卷功能、可提高性能并增加容量、同时支持Cloud Manager根据需要自动增加底层磁盘容量。</block>
+  <block id="393573258ab237c6e22e3d4cc7580951" category="doc">AWS中的弹性卷</block>
+  <block id="d1a9582568e79d0f7df77bf8db0c78c2" category="paragraph">在向NetApp技术支持部门创建支持案例之前、您需要先将NetApp 支持站点 (NSS)帐户添加到Cloud Manager中、然后注册获取支持。</block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支持注册概述</block>
+  <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">激活支持授权有两种形式的注册：</block>
+  <block id="e84e72c56ec69ee05b16bee368f2f4cb" category="list-text">注册Cloud Manager帐户ID支持订阅(您的20位960xxxxxxxxx序列号、位于Cloud Manager的支持资源页面上)。</block>
+  <block id="86d34aa6dedf863c0a4ff5e293c1ec79" category="paragraph">此ID可用作Cloud Manager中任何服务的单一支持订阅ID。必须注册每个Cloud Manager帐户级别的支持订阅。</block>
+  <block id="55ff64467cd508971910145ab5d6b3b8" category="list-text">在云提供商的市场中注册与订阅关联的Cloud Volumes ONTAP 序列号(即20位909201xxxxxxxx序列号)。</block>
+  <block id="dbea8abd63832b9ce98fbfac8dbb8c15" category="paragraph">这些序列号通常称为_PAYGO序列号、并由Cloud Manager在部署Cloud Volumes ONTAP 时生成。</block>
+  <block id="a9e835b028baaab9d917fafc714e25a5" category="paragraph">注册这两种类型的序列号可实现打开支持服务单、自动生成案例和Active IQ 等功能。</block>
+  <block id="660d5b2ef13ebb19840a2004ffc7b794" category="paragraph">您的注册方式取决于您是现有客户还是新客户或合作伙伴。</block>
+  <block id="e5646198d2e01aab2cec9ef946f9c53a" category="list-text">现有客户或合作伙伴</block>
+  <block id="d3fc7412dff6ba31094bfebe93d440da" category="paragraph">作为现有的NetApp客户或合作伙伴、您可以方便地使用NetApp 支持站点 SSO帐户执行上述注册。在支持信息板中、Cloud Manager提供了一个* NSS管理*页面、您可以在其中添加NSS帐户。添加NSS帐户后、Cloud Manager会自动为您注册这些序列号。</block>
+  <block id="4e6af37fb81d50483d832d4de6e2b26a" category="inline-xref">了解如何添加NSS帐户</block>
+  <block id="aa5226cf126f6b55f9a26fc870273eb6" category="paragraph"><block ref="27c44e31a17502f2e9a25a83f2f37696" category="inline-xref-macro-rx"></block></block>
+  <block id="1c91f3adc957364cb01d33e100ee1ea3" category="list-text">NetApp新手</block>
+  <block id="bcce750f51c727121c6fa1fb7d2c91f8" category="paragraph">如果您是NetApp的新用户、则必须在NetApp的支持注册站点上一次性注册Cloud Manager帐户ID序列号。完成此注册并创建新的NSS帐户后、您可以在Cloud Manager中使用此帐户进行自动注册。</block>
+  <block id="f5671877092396fc5c51768d4b6ef029" category="inline-xref">了解如何作为新客户向NetApp注册以获得支持</block>
+  <block id="fdc5455ecf35682141db4b793885ab0a" category="paragraph"><block ref="55f0a0b67017f4626be0f38ad67588fc" category="inline-xref-macro-rx"></block>。</block>
+  <block id="f6c4c1e9625a13b1b4d06a8f53f2ccfd" category="section-title">将NSS帐户添加到Cloud Manager</block>
+  <block id="0bfa39d13bc65474a81520ace129413d" category="paragraph">通过这些操作、Cloud Manager可以使用您的NSS帐户执行许可证下载、软件升级验证和未来支持注册等操作。</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">请注意以下事项：</block>
+  <block id="0f0a0d646a020cf3a65ce82ada4cfb01" category="list-text">此帐户必须是客户级别的帐户（而不是来宾或临时帐户）。</block>
+  <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">由三个水平点组成的图标</block>
+  <block id="ff67299785d475e87002751aa6ab5eb8" category="list-text">成功登录后、NetApp将存储NSS用户名。这是系统生成的ID、映射到您的电子邮件。在* NSS Management*页面上、您可以从显示电子邮件 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
+  <block id="505da61efe6bebebbaf092da18f64613" category="list-text">如果您需要刷新登录凭据令牌、则中还会提供一个*更新凭据*选项 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 菜单。使用此选项将提示您重新登录。</block>
+  <block id="0e3065aca41b3658485deb049f58716e" category="section-title">以新客户身份向NetApp注册以获得支持</block>
+  <block id="04817cb06d7ed16a9839ce318e35407f" category="paragraph">如果您是现有NetApp客户、并且拥有现有许可证和序列号、并且没有NSS帐户、则可以跳至下面的第9步。</block>
+  <block id="f4de8c6859a6a064f0cb8494e4119a5a" category="paragraph">如果您是NetApp的新客户且没有NSS帐户、请执行以下每个步骤。</block>
+  <block id="59dd2a274c2c6a3cc5b3dce08109019d" category="list-text">从支持注册页面找到您的Cloud Manager帐户ID序列号。</block>
+  <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp的支持注册站点</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">导航到<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 并选择*我不是NetApp注册客户*。</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">填写必填字段(带有红色星号的字段)。</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">在*产品线*字段中、选择*云管理器*、然后选择适用的计费提供商。</block>
+  <block id="1192dec4cc2b923397748a651cef178f" category="list-text">复制上述第2步中的Cloud Manager帐户序列号、完成安全检查、然后确认您已阅读NetApp的全球数据隐私政策。</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">系统会立即向提供的邮箱发送一封电子邮件、以完成此安全事务。如果验证电子邮件未在几分钟内收到、请务必检查您的垃圾邮件文件夹。</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">在电子邮件中确认操作。</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">确认将向NetApp提交您的请求、并建议您创建NetApp 支持站点 帐户。</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">NetApp 支持站点 用户注册表</block>
+  <block id="62c032402d4b302129633b433f318daa" category="list-text">要创建NetApp 支持站点 帐户、请完成<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">请务必选择适当的用户级别、通常为* NetApp客户/最终用户*。</block>
+  <block id="d6cb31c22f8f843a781cccec33157281" category="list-text">请务必复制上面用于序列号字段的Cloud Manager帐户序列号(960xxxx)。这样可以加快帐户处理速度。</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此过程中、NetApp应与您联系。这是针对新用户的一次性入职练习。</block>
+  <block id="c20be1a85a79c4a363a755833088b7c7" category="paragraph">拥有NetApp 支持站点 帐户后、您可以导航到Cloud Manager以添加此NSS帐户以供将来注册。完成上述步骤有时可能需要2小时以上的时间。</block>
+  <block id="66c610a2428a932315e5fb622c39f100" category="paragraph">将NSS帐户添加到Cloud Manager后、您可以在支持信息板中注册Cloud Manager以获得支持。</block>
 </blocks>
