@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: concept-overview.html 
+keywords: overview, bluexp, integration, cloud manager, digital advisor, active iq, menu 
+summary: Cloud Manager现已成为BlueXP。借助BlueXP、您可以从一个控制平台构建、保护和管理混合多云数据。 
+---
+= 欢迎使用NetApp BlueXP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Cloud Manager现在称为BlueXP。借助BlueXP、您可以从一个控制平台构建、保护和管理混合多云数据。
+
+
+
+== 统一管理体验
+
+借助BlueXP、您可以从一个界面管理所有存储和数据资产。
+
+您可以使用BlueXP创建和管理云存储(例如Cloud Volumes ONTAP 和Azure NetApp Files)、使用数据服务(例如Cloud Backup和Cloud Data sense)以及控制许多内部和边缘存储设备。
+
+* https://cloud.netapp.com["从BlueXP网站了解更多信息"^]
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["开始使用BlueXP"^]
+
+
+
+
+== 新的导航菜单
+
+在BlueXP的导航菜单中、数据服务现在按类别进行组织、并根据其功能进行命名。例如、您可以访问Cloud Backup、方法是转到*保护*类别并选择*备份和恢复*。
+
+image:screenshot-navigation-menu.png["BlueXP中导航菜单的屏幕截图、其中显示了存储和运行状况等类别。"]
+
+
+
+== 新的产品集成
+
+* 现在、您可以管理更多内部存储系统、例如E系列和StorageGRID。
+* 现在、您可以使用以前仅作为独立服务提供的数据服务以及单独的UI、例如Digital Advisor (以前称为Active IQ)。
+
+
+*了解更多信息*
+
+* https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["管理E系列存储系统"^]
+* https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["管理StorageGRID 存储系统"^]
+* https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["了解Digital Advisor集成"^]
+

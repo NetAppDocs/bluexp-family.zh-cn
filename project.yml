@@ -1,66 +1,61 @@
 ---
 settings:
-  name: Cloud Manager
+  name: BlueXP
   platform: cloud
-  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-snapcenter,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-monitoring,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series
+  search: cloud-manager-relnotes,cloud-manager-setup-admin,cloud-manager-cloud-volumes-ontap,cloud-manager-ontap-onprem,cloud-manager-azure-netapp-files,cloud-manager-fsx-ontap,cloud-manager-cloud-volumes-service-aws,cloud-manager-cloud-volumes-service-gcp,cloud-manager-kubernetes,cloud-manager-app-template,cloud-manager-backup-restore,cloud-manager-sync,cloud-manager-data-sense,cloud-manager-tiering,cloud-manager-ransomware,cloud-manager-replication,cloud-manager-file-cache,cloud-manager-compute,cloud-manager-automation,cloud-volumes-ontap-relnotes,cloud-manager-storagegrid,cloud-manager-e-series
   internal:
-    pdf_enabled: true
+    pdf_enabled: false
   prod:
-    pdf_enabled: true
+    pdf_enabled: false
     harmony_enabled: false
-  langs: zh-cn,us-en,ja-jp,zh-tw,ko-kr
+  langs: zh-cn,us-en,ja-jp,zh-tw,ko-kr,fr-fr,de-de
 sidebar:
   entries:
-  - title: 所有 Cloud Manager 文档
+  - title: 所有BlueXP文档
     url: "/index.html"
 product-family:
   sidebarlinks:
   - title: 全部
     tags: all
     class: active
-  - title: Amazon Web Services
-    tags: aws
-  - title: 自动化
-    tags: automation
-  - title: 代码示例
-    tags: code
-  - title: 计算
-    tags: compute
+  - title: API
+    tags: api
   - title: 连接器和帐户
     tags: admin
-  - title: 数据监管
+  - title: 扩展
+    tags: extension
+  - title: 监管
     tags: governance
-  - title: 数据保护
+  - title: 运行状况
+    tags: health
+  - title: 洞察力
+    tags: insights
+  - title: 移动性
+    tags: mobility
+  - title: 保护
     tags: protection
-  - title: 数据存储
+  - title: 存储
     tags: storage
-  - title: 数据分层
-    tags: tiering
-  - title: 文件共享
-    tags: sharing
-  - title: Google Cloud
-    tags: gcp
-  - title: Kubernetes
-    tags: kubernetes
-  - title: Microsoft Azure
-    tags: azure
-  - title: 监控
-    tags: monitoring
   tiles:
+  - title: 欢迎使用BlueXP
+    icon: "./media/icon-docs.png"
+    url: concept-overview.html
+    summary: 了解有关BlueXP的简介。
+    tags: all
   - title: 设置和管理
     icon: "./media/icon-docs.png"
     url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
-    summary: 了解如何开始使用 Cloud Manager 并管理连接器，帐户等。
-    tags: all, get-started, admin
+    summary: 了解如何开始使用BlueXP并管理连接器、帐户等。
+    tags: all, admin
   - title: 发行说明
     icon: "./media/icon-docs.png"
     url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
-    summary: 了解所有 Cloud Manager 的新增功能。
+    summary: 了解整个BlueXP中的新增功能。
     tags: all
-  - title: Active IQ 数字顾问
+  - title: Digital Advisor (原Active IQ)
     icon: "./media/icon-activeiq.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/concept-aiq-digital-advisor.html
-    tags: all, monitoring
+    url: https://docs.netapp.com/us-en/active-iq/index.html
+    tags: all, health
     summary: 提供可操作的智能信息，以实现最佳存储运行状况。
   - title: 适用于 ONTAP 的 Amazon FSX
     icon: "./media/icon-fsx.png"
@@ -71,12 +66,12 @@ product-family:
     icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
     summary: 以编程方式管理基于云的资源。
-    tags: all, code, automation
+    tags: all, api
   - title: 应用程序模板
     icon: "./media/icon-app-template.png"
     url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
-    summary: 在 Cloud Manager 中自动执行操作，以加快配置速度并消除手动工作。
-    tags: all, automation
+    summary: 在BlueXP中自动执行操作、以加快配置速度并消除手动工作。
+    tags: all, health
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/index.html
@@ -92,16 +87,21 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-data-sense/index.html
     summary: 让您的应用程序数据和云环境做好隐私准备。
     tags: all, governance, aws, azure, gcp
+  - title: Cloud Insights
+    icon: "./media/icon-monitoring.png"
+    url: https://docs.netapp.com/us-en/cloudinsights/
+    summary: 控制云工作负载的性能和利用率。
+    tags: all, insights
   - title: Cloud Sync
     icon: "./media/icon-sync.png"
     url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
     summary: 在内部数据存储和云数据存储之间同步数据。
-    tags: all, aws, azure, gcp, replication
+    tags: all, aws, azure, gcp, mobility
   - title: 云分层
     icon: "./media/icon-tiering.png"
     url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
     summary: 将内部 ONTAP 存储扩展到云。
-    tags: all, aws, azure, gcp, tiering
+    tags: all, aws, azure, gcp, mobility
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
@@ -121,7 +121,7 @@ product-family:
     icon: "./media/icon-compute.png"
     url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
     summary: 深入了解您的云计算支出并确定潜在节省量。
-    tags: all, compute, aws
+    tags: all, aws, extension
   - title: E系列系统
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
@@ -131,17 +131,12 @@ product-family:
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
     summary: 为分布式员工实现实时全局文件共享。
-    tags: all, sharing, aws, azure, gcp
+    tags: all, mobility, aws, azure, gcp
   - title: Kubernetes 集群
     icon: "./media/icon-kubernetes.png"
     url: https://docs.netapp.com/us-en/cloud-manager-kubernetes/index.html
     summary: 对混合云中的 Kubernetes 集群进行高级数据管理。
-    tags: all, kubernetes, aws, azure
-  - title: 监控
-    icon: "./media/icon-monitoring.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-monitoring/index.html
-    summary: 深入了解 Cloud Volumes ONTAP 的运行状况和性能。
-    tags: all, monitoring
+    tags: all, storage, aws, azure
   - title: 内部 ONTAP 集群
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
@@ -156,11 +151,6 @@ product-family:
     icon: "./media/icon-replication.png"
     url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
     summary: 在存储系统之间复制数据以支持备份和灾难恢复。
-    tags: all, protection
-  - title: SnapCenter 服务
-    icon: "./media/icon-snapcenter.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-snapcenter/index.html
-    summary: 在云中实现应用程序一致的数据保护。
     tags: all, protection
   - title: StorageGRID
     icon: "./media/icon-onprem.png"
