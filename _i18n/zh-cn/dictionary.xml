@@ -231,4 +231,9 @@
   <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">这是系统生成的ID、映射到您的电子邮件。在* NSS Management*页面上、您可以从显示电子邮件 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
   <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">如果您需要刷新登录凭据令牌、则中还会提供一个*更新凭据*选项 <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">使用此选项将提示您重新登录。请注意、这些帐户的令牌将在90天后过期。系统将发布通知、提醒您注意这一点。</block>
+  <block id="cf6a3994dac804af910024cf740e14ac" category="list-text">现在、您可以在安装了Connector的AWS帐户中管理Amazon S3存储分段。</block>
+  <block id="72098f7f145b12a125b92539edd37f4a" category="inline-link">管理Amazon S3存储分段</block>
+  <block id="8a4a49cb4536baac7f58e0eb6e2dac29" category="list-text"><block ref="8a4a49cb4536baac7f58e0eb6e2dac29" category="inline-link-rx"></block></block>
+  <block id="d79294e72dc3584cc12c98a7a931315d" category="sidebar">Amazon S3存储</block>
+  <block id="4b271c8c28b8ccb8e638e54186acac01" category="sidebar">发现并管理AWS帐户中的Amazon S3存储分段。</block>
 </blocks>
