@@ -238,4 +238,8 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*附件(可选)*：一次最多上传五个附件。</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每个文件的附件数限制为25 MB。支持以下文件扩展名：txt、log、pdf、jp6/jpeu、rtf、 doc/docx、xls/xlsx和csv。</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*更新案例注释*：提供有关您的问题的更多详细信息、或者选择*上传文件*最多附加五个文件。</block>
+  <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">经济效率</block>
+  <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">确定当前或预测的低容量集群、并实施数据分层或其他容量建议。</block>
+  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">运营故障恢复能力</block>
+  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">实施自动化固件和软件配置风险修复、以保持ONTAP 集群的运行状况。</block>
 </blocks>

@@ -132,6 +132,11 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
     summary: 了解E系列系统、全面了解混合多云中的数据。
     tags: all, storage
+  - title: 经济效率
+    icon: "./media/icon-economic-efficiency.png"
+    url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
+    summary: 确定当前或预测的低容量集群、并实施数据分层或其他容量建议。
+    tags: all, governance
   - title: 全局文件缓存
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
@@ -147,11 +152,16 @@ product-family:
     url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
     summary: 使用System Manager和BlueXP的数据服务从BlueXP管理您的NetApp AFF 和FAS 系统。
     tags: all, storage
+  - title: 运营故障恢复能力
+    icon: "./media/icon-op-resiliency.png"
+    url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
+    summary: 实施自动化固件和软件配置风险修复、以保持ONTAP 集群的运行状况。
+    tags: all, health
   - title: 勒索软件保护
     icon: "./media/icon-ransomware.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
     summary: 评估数据对网络攻击的弹性。
-    tags: all, protection
+    tags: all, governance
   - title: Replication
     icon: "./media/icon-replication.png"
     url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
