@@ -44,7 +44,6 @@
   <block id="20fa9c1bc12bf7468e5d341fc1e54b7f" category="sidebar">为分布式员工实现实时全局文件共享。</block>
   <block id="85eb427901278daf26f132cb3e076914" category="sidebar">Kubernetes 集群</block>
   <block id="94e507a2878d87e4845a941fafc1702f" category="sidebar">对混合云中的 Kubernetes 集群进行高级数据管理。</block>
-  <block id="d0f1687c68ee0f0d9bac765716d18923" category="sidebar">内部 ONTAP 集群</block>
   <block id="950604af87c30e09716e6d097eb491db" category="sidebar">勒索软件保护</block>
   <block id="0a2beb44f980a6220ce4afa12b490e4f" category="sidebar">评估数据对网络攻击的弹性。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replication</block>
@@ -107,9 +106,7 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp的新品牌</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp的新客户、并且没有NSS帐户、请按照以下每个步骤进行操作。</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">如果您拥有客户级别的帐户、则可以添加一个或多个NSS帐户。</block>
-  <block id="fd4eb119039df77c719a1f46167399a3" category="summary">Cloud Manager现已成为BlueXP。借助BlueXP、您可以从一个控制平台构建、保护和管理混合多云数据。</block>
   <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">欢迎使用NetApp BlueXP</block>
-  <block id="d1fe59ef952debed99ffc7ccaaa00a70" category="paragraph">Cloud Manager现在称为BlueXP。借助BlueXP、您可以从一个控制平台构建、保护和管理混合多云数据。</block>
   <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">统一管理体验</block>
   <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">借助BlueXP、您可以从一个界面管理所有存储和数据资产。</block>
   <block id="e2f4ed3372452716e062769cee896707" category="paragraph">您可以使用BlueXP创建和管理云存储(例如Cloud Volumes ONTAP 和Azure NetApp Files)、使用数据服务(例如Cloud Backup和Cloud Data sense)以及控制许多内部和边缘存储设备。</block>
@@ -131,7 +128,6 @@
   <block id="d694b62f00b305ea3d15052a9af4e461" category="list-text"><block ref="d694b62f00b305ea3d15052a9af4e461" category="inline-link-rx"></block></block>
   <block id="f3bb3ec21babd88d81e5f7aefe69cced" category="inline-link">了解Digital Advisor集成</block>
   <block id="fd93e0ac3cede5691afd22e4d95042e3" category="list-text"><block ref="fd93e0ac3cede5691afd22e4d95042e3" category="inline-link-rx"></block></block>
-  <block id="8adbcfd0f4d060d9e017dc7374ce832e" category="summary">BlueXP (以前称为Cloud Manager)为IT专家和云架构师提供了一个集中式控制平台、用于在混合多云环境中管理、监控和自动化数据。按产品区域浏览文档、或者使用上述搜索功能在BlueXP文档中的任意位置查找内容。</block>
   <block id="eeb8e055593f1709925a03e2ebb13265" category="doc">BlueXP文档</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp通过多种方式为BlueXP及其云服务提供支持。全天候提供丰富的免费自助支持选项，例如知识库（ KB ）文章和社区论坛。您的支持注册包括通过 Web 服务单提供的远程技术支持。</block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">搜索BlueXP知识库、查找有助于解决问题的文章。</block>
@@ -242,4 +238,7 @@
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">确定当前或预测的低容量集群、并实施数据分层或其他容量建议。</block>
   <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">运营故障恢复能力</block>
   <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">实施自动化固件和软件配置风险修复、以保持ONTAP 集群的运行状况。</block>
+  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品区域浏览文档、或者使用上述搜索功能在BlueXP文档中的任意位置查找内容。</block>
+  <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP是Cloud Manager的一项发展。BlueXP是一个统一控制平台、可为内部环境和云环境中的存储和数据服务提供混合多云体验。</block>
+  <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">内部 ONTAP 集群</block>
 </blocks>
