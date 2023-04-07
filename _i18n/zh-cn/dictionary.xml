@@ -15,7 +15,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">发行说明</block>
   <block id="8e5adb4723e04a1f9bf2ea7df2c5e684" category="sidebar">连接器和帐户</block>
   <block id="a623a8d0366bf079411aa30be45b2d10" category="sidebar">计算</block>
-  <block id="30b77b282030e8985671bcc89e3e4d74" category="sidebar">设置和管理</block>
   <block id="92086381b2a7391ff015bfa58d13afc9" category="sidebar">提供可操作的智能信息，以实现最佳存储运行状况。</block>
   <block id="18cf072964a583150dd247485ba75b92" category="sidebar">适用于 ONTAP 的 Amazon FSX</block>
   <block id="977f48c0ad107bab5b00e6582e3d62b5" category="sidebar">将 ONTAP 的全部功能用作原生 AWS 管理的服务。</block>
@@ -241,4 +240,5 @@
   <block id="b43ac04bee8d38f5824a93a273f0ad9d" category="summary">NetApp BlueXP是Cloud Manager的一项发展。BlueXP是一个统一控制平台、可为内部环境和云环境中的存储和数据服务提供混合多云体验。</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">内部 ONTAP 集群</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">设置和管理</block>
 </blocks>
