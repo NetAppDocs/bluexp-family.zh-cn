@@ -127,6 +127,11 @@ product-family:
     url: https://docs.netapp.com/us-en/active-iq/index.html
     tags: all, health
     summary: 提供可操作的智能信息，以实现最佳存储运行状况。
+  - title: 数字电子钱包
+    icon: "./media/digital-wallet.png"
+    url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
+    tags: all, governance
+    summary: 管理和监控许可证和订阅。
   - title: E系列系统
     icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
