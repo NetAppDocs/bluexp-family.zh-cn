@@ -1,8 +1,8 @@
 ---
 layout: product-family 
 permalink: index.html 
-lead: NetApp BlueXP provides your organization with a single control plane to build, protect, and govern data data across your on-premises and cloud environments. Browse the docs by product area or use the search above to find content anywhere in the BlueXP docs. 
-summary: NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品区域浏览文档、或者使用上述搜索功能在BlueXP文档中的任意位置查找内容。 
+lead: 'NetApp BlueXP (Cloud Manager) provides your organization with a single control plane to build, protect, and govern data data across your on-premises and cloud environments. Browse the docs by product area or use the search above to find content anywhere in the BlueXP docs.' 
+summary: 'NetApp BlueXP (Cloud Manager)为您的组织提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品区域浏览文档、或者使用上述搜索功能在BlueXP文档中的任意位置查找内容。' 
 ---
 = BlueXP文档
 :hardbreaks:
