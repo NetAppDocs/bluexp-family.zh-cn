@@ -99,18 +99,15 @@
   <block id="a0d9a83eb0552b7cc89c8d441a15ede1" category="doc">欢迎使用NetApp BlueXP</block>
   <block id="4860911c5c67c5e04987564884e8b85e" category="section-title">统一管理体验</block>
   <block id="c3eb39b445a75ad05505fe32c6f061df" category="paragraph">借助BlueXP、您可以从一个界面管理所有存储和数据资产。</block>
-  <block id="e2f4ed3372452716e062769cee896707" category="paragraph">您可以使用BlueXP创建和管理云存储(例如Cloud Volumes ONTAP 和Azure NetApp Files)、使用数据服务(例如Cloud Backup和Cloud Data sense)以及控制许多内部和边缘存储设备。</block>
   <block id="fc8ff23d0bf81d0f8427b5c75023f80e" category="inline-link">从BlueXP网站了解更多信息</block>
   <block id="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="list-text"><block ref="8ec0fdd1845d3a5b2aa52e5cc7bce6ee" category="inline-link-rx"></block></block>
   <block id="61b173efd5c260fd3e3f446d9d4b37e7" category="inline-link">开始使用BlueXP</block>
   <block id="790c95b0226a2581bfc7d45871227daf" category="list-text"><block ref="790c95b0226a2581bfc7d45871227daf" category="inline-link-rx"></block></block>
   <block id="31f0834695d820dc381e57397e466d12" category="section-title">新的导航菜单</block>
-  <block id="fd1529b541f9947e3defd06b8efbfca3" category="paragraph">在BlueXP的导航菜单中、数据服务现在按类别进行组织、并根据其功能进行命名。例如、您可以访问Cloud Backup、方法是转到*保护*类别并选择*备份和恢复*。</block>
   <block id="7cb04a79785e33be744a126127319a35" category="inline-image-macro">BlueXP中导航菜单的屏幕截图、其中显示了存储和运行状况等类别。</block>
   <block id="e3a2069a256a46b571b57fe46324f5c0" category="paragraph"><block ref="e3a2069a256a46b571b57fe46324f5c0" category="inline-image-macro-rx" type="image"></block></block>
   <block id="68d4f3d7366b4ea59a65f0c44540e368" category="section-title">新的产品集成</block>
   <block id="054332983ba253fe4573945dcdbc8109" category="list-text">现在、您可以管理更多内部存储系统、例如E系列和StorageGRID。</block>
-  <block id="008dd953f4aadef1cabe373c88ac29c1" category="list-text">现在、您可以使用以前仅作为独立服务提供的数据服务以及单独的UI、例如Digital Advisor (以前称为Active IQ)。</block>
   <block id="7a58e46486e93797ee672a65eac3170f" category="paragraph">*了解更多信息*</block>
   <block id="23c19e9851a45bd1a62c97b5c51e16ab" category="inline-link">管理E系列存储系统</block>
   <block id="652eac6ffac6ea42cdd10bbba7bc6c0c" category="list-text"><block ref="652eac6ffac6ea42cdd10bbba7bc6c0c" category="inline-link-rx"></block></block>
@@ -242,4 +239,7 @@
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">勒索软件保护</block>
   <block id="f795757823b59c3b3206b50b2da3e5c0" category="sidebar">修复(AppTemplate)</block>
   <block id="1d0bd4d6c0b9e6459f709106d8874b1d" category="sidebar">分层(云分层)</block>
+  <block id="9d881c2e8fdc167a489e069a47255ba9" category="paragraph">您可以使用BlueXP创建和管理云存储(例如Cloud Volumes ONTAP 和Azure NetApp Files)、移动、保护和分析数据以及控制许多内部和边缘存储设备。</block>
+  <block id="75d46f12940616f043309dfb109d814d" category="paragraph">在BlueXP的导航菜单中、服务现在按类别进行组织、并根据其功能进行命名。例如，您可以从*保护*类别访问BlueXP备份和恢复(云备份)。</block>
+  <block id="bcaa38b35b3f595027217ec10755368a" category="list-text">现在、您可以使用以前仅作为独立服务提供且具有单独UI的数据服务、例如BlueXP数字顾问(Active IQ)。</block>
 </blocks>
