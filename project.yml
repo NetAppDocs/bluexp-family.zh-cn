@@ -8,7 +8,7 @@ settings:
   prod:
     pdf_enabled: false
     harmony_enabled: false
-  langs: zh-cn,us-en,ja-jp,ko-kr,zh-tw,de-de,es-es,fr-fr
+  langs: zh-cn,us-en,ja-jp,ko-kr,zh-tw,de-de,es-es,fr-fr,it-it
 sidebar:
   entries:
   - title: 所有BlueXP文档
@@ -46,7 +46,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html
     summary: 了解如何开始使用BlueXP并管理连接器、帐户等。
-    tags: all, admin
+    tags: all,admin
   - title: 发行说明
     icon: "./media/icon-docs.png"
     url: https://docs.netapp.com/us-en/cloud-manager-relnotes/index.html
@@ -56,12 +56,12 @@ product-family:
     icon: "./media/icon-fsx.png"
     url: https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/index.html
     summary: 将 ONTAP 的全部功能用作原生 AWS 管理的服务。
-    tags: all, storage, aws
+    tags: all,storage,aws
   - title: Amazon S3存储
     icon: "./media/icon-s3.png"
     url: https://docs.netapp.com/us-en/bluexp-s3-storage/index.html
     summary: 发现并管理AWS帐户中的Amazon S3存储分段。
-    tags: all, storage, aws
+    tags: all,storage,aws
   - title: API
     icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/cloud-manager-automation/index.html
@@ -71,57 +71,57 @@ product-family:
     icon: "./media/icon-anf.png"
     url: https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/index.html
     summary: 适用于核心业务应用程序的高性能文件存储服务。
-    tags: all, storage, azure
+    tags: all,storage,azure
   - title: 备份和恢复(Cloud Backup)
     icon: "./media/icon-backup.png"
     url: https://docs.netapp.com/us-en/cloud-manager-backup-restore/index.html
     summary: 备份和还原云和内部数据。
-    tags: all, aws, azure, gcp, protection
+    tags: all,aws,azure,gcp,protection
   - title: 分类(云数据感知)
     icon: "./media/icon-data-sense.png"
     url: https://docs.netapp.com/us-en/cloud-manager-data-sense/index.html
     summary: 让您的应用程序数据和云环境做好隐私准备。
-    tags: all, governance, aws, azure, gcp
+    tags: all,governance,aws,azure,gcp
   - title: 云操作(计算)
     icon: "./media/icon-compute.png"
     url: https://docs.netapp.com/us-en/cloud-manager-compute/index.html
     summary: 深入了解您的云计算支出并确定潜在节省量。
-    tags: all, aws, extension
+    tags: all,aws,extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
     summary: 让您的云存储更经济实惠，更智能，更合规，更安全。
-    tags: all, storage, aws, azure, gcp
+    tags: all,storage,aws,azure,gcp
   - title: 适用于 Google Cloud 的 Cloud Volumes Service
     icon: "./media/icon-cvs.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/index.html
     summary: 保护，保护和加速文件存储。
-    tags: all, storage, gcp
+    tags: all,storage,gcp
   - title: 复制和同步(Cloud Sync)
     icon: "./media/icon-sync.png"
     url: https://docs.netapp.com/us-en/cloud-manager-sync/index.html
     summary: 在内部数据存储和云数据存储之间同步数据。
-    tags: all, aws, azure, gcp, mobility
+    tags: all,aws,azure,gcp,mobility
   - title: 数字顾问(Active IQ)
     icon: "./media/icon-activeiq.png"
     url: https://docs.netapp.com/us-en/active-iq/index.html
-    tags: all, health
+    tags: all,health
     summary: 提供可操作的智能信息，以实现最佳存储运行状况。
   - title: 数字电子钱包
     icon: "./media/digital-wallet.png"
     url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
-    tags: all, governance
+    tags: all,governance
     summary: 管理和监控许可证和订阅。
   - title: E系列系统
     icon: "./media/icon-e-series.png"
     url: https://docs.netapp.com/us-en/cloud-manager-e-series/index.html
     summary: 了解E系列系统、全面了解混合多云中的数据。
-    tags: all, storage
+    tags: all,storage
   - title: 经济效率
     icon: "./media/icon-economic-efficiency.png"
     url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
     summary: 确定当前或预测的低容量集群、并实施数据分层或其他容量建议。
-    tags: all, governance
+    tags: all,governance
   - title: 边缘缓存(全局文件缓存)
     icon: "./media/icon-cache.png"
     url: https://docs.netapp.com/us-en/cloud-manager-file-cache/index.html
@@ -136,27 +136,27 @@ product-family:
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/index.html
     summary: 使用System Manager和BlueXP的数据服务从BlueXP管理您的NetApp AFF 和FAS 系统。
-    tags: all, storage
+    tags: all,storage
   - title: 运营故障恢复能力
     icon: "./media/icon-op-resiliency.png"
     url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
     summary: 实施自动化固件和软件配置风险修复、以保持ONTAP 集群的运行状况。
-    tags: all, health
+    tags: all,health
   - title: 勒索软件保护
     icon: "./media/icon-ransomware.png"
     url: https://docs.netapp.com/us-en/cloud-manager-ransomware/index.html
     summary: 评估数据对网络攻击的弹性。
-    tags: all, protection
+    tags: all,governance,protection
   - title: 修复(AppTemplate)
     icon: "./media/icon-app-template.png"
     url: https://docs.netapp.com/us-en/cloud-manager-app-template/index.html
     summary: 在BlueXP中自动执行操作、以加快配置速度并消除手动工作。
-    tags: all, health
+    tags: all,health
   - title: Replication
     icon: "./media/icon-replication.png"
     url: https://docs.netapp.com/us-en/cloud-manager-replication/index.html
     summary: 在存储系统之间复制数据以支持备份和灾难恢复。
-    tags: all, protection
+    tags: all,protection
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"
     url: https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html
@@ -166,4 +166,4 @@ product-family:
     icon: "./media/icon-tiering.png"
     url: https://docs.netapp.com/us-en/cloud-manager-tiering/index.html
     summary: 将内部 ONTAP 存储扩展到云。
-    tags: all, aws, azure, gcp, mobility
+    tags: all,aws,azure,gcp,mobility
