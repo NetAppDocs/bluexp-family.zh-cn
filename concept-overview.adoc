@@ -25,7 +25,7 @@ NetApp BlueXP是Cloud Manager的一项发展。BlueXP是一个统一控制平台
 您可以使用BlueXP创建和管理云存储(例如Cloud Volumes ONTAP 和Azure NetApp Files)、移动、保护和分析数据以及控制许多内部和边缘存储设备。
 
 * https://cloud.netapp.com["从BlueXP网站了解更多信息"^]
-* https://docs.netapp.com/us-en/cloud-manager-setup-admin/index.html["开始使用BlueXP"^]
+* https://docs.netapp.com/us-en/bluexp-setup-admin/index.html["开始使用BlueXP"^]
 
 
 
@@ -48,7 +48,7 @@ image:screenshot-navigation-menu.png["BlueXP中导航菜单的屏幕截图、其
 *了解更多信息*
 
 * https://docs.netapp.com/us-en/bluexp-s3-storage/index.html["管理Amazon S3存储分段"^]
-* https://docs.netapp.com/us-en/cloud-manager-e-series/index.html["管理E系列存储系统"^]
-* https://docs.netapp.com/us-en/cloud-manager-storagegrid/index.html["管理StorageGRID 存储系统"^]
+* https://docs.netapp.com/us-en/bluexp-e-series/index.html["管理E系列存储系统"^]
+* https://docs.netapp.com/us-en/bluexp-storagegrid/index.html["管理StorageGRID 存储系统"^]
 * https://docs.netapp.com/us-en/active-iq/digital-advisor-integration-with-bluexp.html["了解Digital Advisor集成"^]
 
