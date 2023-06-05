@@ -243,4 +243,6 @@
   <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">此错误可能意味着NSS帐户及其关联的记录公司与BlueXP帐户序列号(即960xxxx)或工作环境序列号。您可以使用以下选项之一寻求帮助：</block>
   <block id="ac7b3cf10ea08c788a374e0291742517" category="sidebar">迁移报告</block>
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">确定存储环境中的文件数量、文件系统树的深度和广度、最大文件等。</block>
+  <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">卷缓存</block>
+  <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">创建可写缓存卷、以加快数据访问速度或从访问量较多的卷卸载流量。</block>
 </blocks>
