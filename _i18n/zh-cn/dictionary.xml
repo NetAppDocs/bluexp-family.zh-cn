@@ -245,4 +245,6 @@
   <block id="724a3079d3074b0468d00facd32bb57e" category="sidebar">确定存储环境中的文件数量、文件系统树的深度和广度、最大文件等。</block>
   <block id="ff45d71e69fb5930de79de7c94326d7b" category="sidebar">卷缓存</block>
   <block id="d0e71bba7a9d538f008b05b19274bfe1" category="sidebar">创建可写缓存卷、以加快数据访问速度或从访问量较多的卷卸载流量。</block>
+  <block id="2b3e8f910d66604cd77f93b333670468" category="sidebar">Azure Blb存储</block>
+  <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">在Azure订阅中发现和管理Azure Blb存储。</block>
 </blocks>

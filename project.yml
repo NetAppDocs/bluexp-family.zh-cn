@@ -65,6 +65,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: 以编程方式管理基于云的资源。
     tags: all,api
+  - title: Azure Blb存储
+    icon: "./media/icon-azure-blob.png"
+    url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
+    summary: 在Azure订阅中发现和管理Azure Blb存储。
+    tags: all,storage
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: https://docs.netapp.com/us-en/bluexp-azure-netapp-files/index.html
