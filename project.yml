@@ -130,6 +130,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
     summary: 对混合云中的 Kubernetes 集群进行高级数据管理。
     tags: all,storage,aws,azure
+  - title: 迁移报告
+    icon: "./media/icon-reports.png"
+    url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+    summary: 确定存储环境中的文件数量、文件系统树的深度和广度、最大文件等。
+    tags: all,storage
   - title: 内部 ONTAP 集群
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
