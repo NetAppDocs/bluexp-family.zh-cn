@@ -174,7 +174,7 @@ product-family:
     icon: "./media/icon-sustainability.png"
     url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
     summary: 分析存储系统的可持续性。
-    tags: all,health
+    tags: all,governance
   - title: 分层(云分层)
     icon: "./media/icon-tiering.png"
     url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
