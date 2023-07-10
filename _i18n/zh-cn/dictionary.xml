@@ -249,4 +249,6 @@
   <block id="fbdd0eee7f6077dcd3ac16cc88517d62" category="sidebar">在Azure订阅中发现和管理Azure Blb存储。</block>
   <block id="072d1a387472fb47fdfa33e48ff08ffd" category="sidebar">Sustainability信息板</block>
   <block id="b6ec628f73e9b33a6ae94b2c3ef2879b" category="sidebar">分析存储系统的可持续性。</block>
+  <block id="833c2c211a541e50ad94433664e4b5c1" category="sidebar">Google Cloud 存储</block>
+  <block id="195aba5a6e7c41123fc8903b34a99aeb" category="sidebar">发现和管理Google帐户中的云存储分段。</block>
 </blocks>

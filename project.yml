@@ -131,6 +131,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-edge-caching/index.html
     summary: 为分布式员工实现实时全局文件共享。
     tags: all,mobility,aws,azure,gcp
+  - title: Google Cloud 存储
+    icon: "./media/icon-google-cloud-storage.png"
+    url: https://docs.netapp.com/us-en/bluexp-google-cloud-storage/index.html
+    summary: 发现和管理Google帐户中的云存储分段。
+    tags: all,storage
   - title: Kubernetes 集群
     icon: "./media/icon-kubernetes.png"
     url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
