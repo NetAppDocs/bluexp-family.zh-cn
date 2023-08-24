@@ -183,7 +183,7 @@ product-family:
     tags: all,storage
   - title: Sustainability信息板
     icon: "./media/icon-sustainability.png"
-    url: https://docs.netapp.com/us-en/active-iq/concept_understand_sustainability_dashboard.html
+    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
     summary: 分析存储系统的可持续性。
     tags: all,governance
   - title: 分层(云分层)
