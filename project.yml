@@ -66,6 +66,11 @@ product-family:
     url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: 以编程方式管理基于云的资源。
     tags: all,api
+  - title: 自动化目录
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    summary: 使用脚本化解决方案自动部署和集成NetApp产品和服务。
+    tags: all,governance
   - title: Azure Blb存储
     icon: "./media/icon-azure-blob.png"
     url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
