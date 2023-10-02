@@ -121,7 +121,6 @@
   <block id="19874606c485ce682436c45308e50186" category="sidebar">使用System Manager和BlueXP的数据服务从BlueXP管理您的NetApp AFF 和FAS 系统。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">开始之前</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成后</block>
-  <block id="0375f4855be072c7d856a0233cc21de9" category="doc">支持云提供商解决方案</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">使用自助支持选项</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">向NetApp支持部门创建案例</block>
   <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">在*资源*页面上、在技术支持下选择一个可用选项：</block>
@@ -198,9 +197,7 @@
   <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">这是系统生成的ID、映射到您的电子邮件。在* NSS Management*页面上、您可以从显示电子邮件 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
   <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">如果您需要刷新登录凭据令牌、则中还会提供一个*更新凭据*选项 <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 菜单。</block>
   <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="0c7db2bd63c891adb2c0fa4527805d72" category="paragraph">您的BlueXP帐户和各个Cloud Volumes ONTAP系统都需要注册支持。</block>
   <block id="28164bf9e881ddc9e7ff74744bfce180" category="paragraph">注册这两种类型的序列号可实现打开支持服务单和自动生成案例等功能。要完成注册、请按如下所述将NetApp 支持站点(NSS)帐户添加到BlueXP中。</block>
-  <block id="e922b9aa0836a1d93e11cac0fe4c9004" category="paragraph">有关以下云提供商解决方案的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
   <block id="5a19febf1dcb23c10e8dcfde64ba764c" category="section-title">注册BlueXP帐户以获得NetApp支持</block>
   <block id="6bbc2ba432f59ab65ee3d8ac5a58336e" category="paragraph">要注册支持并激活支持授权、BlueXP帐户中的一个用户必须将NetApp 支持站点 帐户与其BlueXP登录名关联。如何注册NetApp支持取决于您是否已拥有NetApp 支持站点 (NSS)帐户。</block>
   <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">选择*添加NSS凭证*，然后按照NetApp 支持站点(NSS)鉴定提示进行操作。</block>
@@ -253,4 +250,9 @@
   <block id="c7b1fe992423d57d0e492585ff631c02" category="sidebar">使用基于Amazon FSx for ONTAP的VMware Cloud作为灾难恢复站点来保护内部VMware工作负载。</block>
   <block id="d7a02621d52c29a3c5f7895e817cba5b" category="sidebar">自动化目录</block>
   <block id="5d880ed9e8bc81eec72f5edb5332637d" category="sidebar">使用脚本化解决方案自动部署和集成NetApp产品和服务。</block>
+  <block id="ece19bab46695021f109a5e50f08bebe" category="paragraph">要获得BlueXP及其存储解决方案和服务的特定技术支持、需要注册支持。要为Cloud Volumes ONTAP系统启用关键工作流、还需要注册支持服务。</block>
+  <block id="8a3d807608e632d188a288fc5f4aa7eb" category="paragraph">注册获取支持不会为云提供商文件服务启用NetApp支持。有关与云提供商文件服务、其基础架构或使用该服务的任何解决方案相关的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
+  <block id="522cbb900314aeb84eb5a961c5f94672" category="doc">获得云提供商文件服务支持</block>
+  <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">有关与云提供商文件服务、其基础架构或使用该服务的任何解决方案相关的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
+  <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">要获得针对BlueXP及其存储解决方案和服务的技术支持、请使用下面所述的支持选项。</block>
 </blocks>
