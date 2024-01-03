@@ -43,156 +43,156 @@ product-family:
     tags: all
   - title: 设置和管理
     icon: "./media/icon-admin.png"
-    url: https://docs.netapp.com/us-en/bluexp-setup-admin/index.html
+    url: "../bluexp-setup-admin/index.html"
     summary: 了解如何开始使用BlueXP并管理连接器、帐户等。
     tags: all,admin
   - title: 发行说明
     icon: "./media/icon-docs.png"
-    url: https://docs.netapp.com/us-en/bluexp-relnotes/index.html
+    url: "../bluexp-relnotes/index.html"
     summary: 了解整个BlueXP中的新增功能。
     tags: all
   - title: 适用于 NetApp ONTAP 的 Amazon FSX
     icon: "./media/icon-fsx.png"
-    url: https://docs.netapp.com/us-en/bluexp-fsx-ontap/index.html
+    url: "../bluexp-fsx-ontap/index.html"
     summary: 将 ONTAP 的全部功能用作原生 AWS 管理的服务。
     tags: all,storage,aws
   - title: Amazon S3存储
     icon: "./media/icon-s3.png"
-    url: https://docs.netapp.com/us-en/bluexp-s3-storage/index.html
+    url: "../bluexp-s3-storage/index.html"
     summary: 发现并管理AWS帐户中的Amazon S3存储分段。
     tags: all,storage,aws
   - title: API
     icon: "./media/icon-api.png"
-    url: https://docs.netapp.com/us-en/bluexp-automation/index.html
+    url: "../bluexp-automation/index.html"
     summary: 以编程方式管理基于云的资源。
     tags: all,api
   - title: 自动化目录
     icon: "./media/icon-api.png"
-    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
+    url: "../netapp-automation/solutions/bac-overview.html"
     summary: 使用脚本化解决方案自动部署和集成NetApp产品和服务。
     tags: all,governance
   - title: Azure Blb存储
     icon: "./media/icon-azure-blob.png"
-    url: https://docs.netapp.com/us-en/bluexp-blob-storage/index.html
+    url: "../bluexp-blob-storage/index.html"
     summary: 在Azure订阅中发现和管理Azure Blb存储。
     tags: all,storage
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
-    url: https://docs.netapp.com/us-en/bluexp-azure-netapp-files/index.html
+    url: "../bluexp-azure-netapp-files/index.html"
     summary: 适用于核心业务应用程序的高性能文件存储服务。
     tags: all,storage,azure
   - title: 备份和恢复(Cloud Backup)
     icon: "./media/icon-backup.png"
-    url: https://docs.netapp.com/us-en/bluexp-backup-recovery/index.html
+    url: "../bluexp-backup-recovery/index.html"
     summary: 备份和还原云和内部数据。
     tags: all,aws,azure,gcp,protection
   - title: 分类(云数据感知)
     icon: "./media/icon-data-sense.png"
-    url: https://docs.netapp.com/us-en/bluexp-classification/index.html
+    url: "../bluexp-classification/index.html"
     summary: 让您的应用程序数据和云环境做好隐私准备。
     tags: all,governance,aws,azure,gcp
   - title: 云操作(计算)
     icon: "./media/icon-compute.png"
-    url: https://docs.netapp.com/us-en/bluexp-cloud-ops/index.html
+    url: "../bluexp-cloud-ops/index.html"
     summary: 深入了解您的云计算支出并确定潜在节省量。
     tags: all,aws,extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
-    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html
+    url: "../bluexp-cloud-volumes-ontap/index.html"
     summary: 让您的云存储更经济实惠，更智能，更合规，更安全。
     tags: all,storage,aws,azure,gcp
   - title: 适用于 Google Cloud 的 Cloud Volumes Service
     icon: "./media/icon-cvs.png"
-    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-service-gcp/index.html
+    url: "../bluexp-cloud-volumes-service-gcp/index.html"
     summary: 保护，保护和加速文件存储。
     tags: all,storage,gcp
   - title: 复制和同步(Cloud Sync)
     icon: "./media/icon-sync.png"
-    url: https://docs.netapp.com/us-en/bluexp-copy-sync/index.html
+    url: "../bluexp-copy-sync/index.html"
     summary: 在内部数据存储和云数据存储之间同步数据。
     tags: all,aws,azure,gcp,mobility
   - title: 数字顾问(Active IQ)
     icon: "./media/icon-activeiq.png"
-    url: https://docs.netapp.com/us-en/active-iq/index.html
+    url: "../active-iq/index.html"
     tags: all,health
     summary: 提供可操作的智能信息，以实现最佳存储运行状况。
   - title: 数字电子钱包
     icon: "./media/digital-wallet.png"
-    url: https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html
+    url: "../bluexp-digital-wallet/index.html"
     tags: all,governance
     summary: 管理和监控许可证和订阅。
   - title: 灾难恢复
     icon: "./media/icon-disaster-recovery.png"
-    url: https://docs.netapp.com/us-en/bluexp-disaster-recovery/index.html
+    url: "../bluexp-disaster-recovery/index.html"
     tags: all,protection
     summary: 使用基于Amazon FSx for ONTAP的VMware Cloud作为灾难恢复站点来保护内部VMware工作负载。
   - title: E系列系统
     icon: "./media/icon-e-series.png"
-    url: https://docs.netapp.com/us-en/bluexp-e-series/index.html
+    url: "../bluexp-e-series/index.html"
     summary: 了解E系列系统、全面了解混合多云中的数据。
     tags: all,storage
   - title: 经济效率
     icon: "./media/icon-economic-efficiency.png"
-    url: https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html
+    url: "../bluexp-economic-efficiency/index.html"
     summary: 确定当前或预测的低容量集群、并实施数据分层或其他容量建议。
     tags: all,governance
   - title: 边缘缓存(全局文件缓存)
     icon: "./media/icon-cache.png"
-    url: https://docs.netapp.com/us-en/bluexp-edge-caching/index.html
+    url: "../bluexp-edge-caching/index.html"
     summary: 为分布式员工实现实时全局文件共享。
     tags: all,mobility,aws,azure,gcp
   - title: Google Cloud 存储
     icon: "./media/icon-google-cloud-storage.png"
-    url: https://docs.netapp.com/us-en/bluexp-google-cloud-storage/index.html
+    url: "../bluexp-google-cloud-storage/index.html"
     summary: 发现和管理Google帐户中的云存储分段。
     tags: all,storage
   - title: Kubernetes 集群
     icon: "./media/icon-kubernetes.png"
-    url: https://docs.netapp.com/us-en/bluexp-kubernetes/index.html
+    url: "../bluexp-kubernetes/index.html"
     summary: 对混合云中的 Kubernetes 集群进行高级数据管理。
     tags: all,storage,aws,azure
   - title: 迁移报告
     icon: "./media/icon-reports.png"
-    url: https://docs.netapp.com/us-en/bluexp-reports/index.html
+    url: "../bluexp-reports/index.html"
     summary: 确定存储环境中的文件数量、文件系统树的深度和广度、最大文件等。
     tags: all,storage
   - title: 内部 ONTAP 集群
     icon: "./media/icon-onprem.png"
-    url: https://docs.netapp.com/us-en/bluexp-ontap-onprem/index.html
+    url: "../bluexp-ontap-onprem/index.html"
     summary: 使用System Manager和BlueXP的数据服务从BlueXP管理您的NetApp AFF 和FAS 系统。
     tags: all,storage
   - title: 运营故障恢复能力
     icon: "./media/icon-op-resiliency.png"
-    url: https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html
+    url: "../bluexp-operational-resiliency/index.html"
     summary: 实施自动化固件和软件配置风险修复、以保持ONTAP 集群的运行状况。
     tags: all,health
   - title: 修复(AppTemplate)
     icon: "./media/icon-app-template.png"
-    url: https://docs.netapp.com/us-en/bluexp-remediation/index.html
+    url: "../bluexp-remediation/index.html"
     summary: 在BlueXP中自动执行操作、以加快配置速度并消除手动工作。
     tags: all,health
   - title: Replication
     icon: "./media/icon-replication.png"
-    url: https://docs.netapp.com/us-en/bluexp-replication/index.html
+    url: "../bluexp-replication/index.html"
     summary: 在存储系统之间复制数据以支持备份和灾难恢复。
     tags: all,protection
   - title: StorageGRID
     icon: "./media/icon-storagegrid.png"
-    url: https://docs.netapp.com/us-en/bluexp-storagegrid/index.html
+    url: "../bluexp-storagegrid/index.html"
     summary: 发现和管理StorageGRID 系统。
     tags: all,storage
   - title: Sustainability信息板
     icon: "./media/icon-sustainability.png"
-    url: https://docs.netapp.com/us-en/active-iq/learn_BlueXP_sustainability.html
+    url: "../active-iq/learn_BlueXP_sustainability.html"
     summary: 分析存储系统的可持续性。
     tags: all,governance
   - title: 分层(云分层)
     icon: "./media/icon-tiering.png"
-    url: https://docs.netapp.com/us-en/bluexp-tiering/index.html
+    url: "../bluexp-tiering/index.html"
     summary: 将内部 ONTAP 存储扩展到云。
     tags: all,aws,azure,gcp,mobility
   - title: 卷缓存
     icon: "./media/icon-volume-caching.png"
-    url: https://docs.netapp.com/us-en/bluexp-volume-caching/index.html
+    url: "../bluexp-volume-caching/index.html"
     summary: 创建可写缓存卷、以加快数据访问速度或从访问量较多的卷卸载流量。
     tags: all,mobility
