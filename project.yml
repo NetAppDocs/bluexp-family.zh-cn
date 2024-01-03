@@ -63,12 +63,12 @@ product-family:
     tags: all,storage,aws
   - title: API
     icon: "./media/icon-api.png"
-    url: "../bluexp-automation/index.html"
+    url: https://docs.netapp.com/us-en/bluexp-automation/index.html
     summary: 以编程方式管理基于云的资源。
     tags: all,api
   - title: 自动化目录
     icon: "./media/icon-api.png"
-    url: "../netapp-automation/solutions/bac-overview.html"
+    url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: 使用脚本化解决方案自动部署和集成NetApp产品和服务。
     tags: all,governance
   - title: Azure Blb存储
