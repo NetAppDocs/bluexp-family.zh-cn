@@ -37,11 +37,6 @@ product-family:
   - title: 存储
     tags: storage
   tiles:
-  - title: 欢迎使用BlueXP
-    icon: "./media/icon-docs.png"
-    url: concept-overview.html
-    summary: 了解有关BlueXP的简介。
-    tags: all
   - title: 设置和管理
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
@@ -82,17 +77,17 @@ product-family:
     url: "../bluexp-azure-netapp-files/index.html"
     summary: 适用于核心业务应用程序的高性能文件存储服务。
     tags: all,storage,azure
-  - title: 备份和恢复(Cloud Backup)
+  - title: 备份和恢复
     icon: "./media/icon-backup.png"
     url: "../bluexp-backup-recovery/index.html"
     summary: 备份和还原云和内部数据。
     tags: all,aws,azure,gcp,protection
-  - title: 分类(云数据感知)
+  - title: 分类
     icon: "./media/icon-data-sense.png"
     url: "../bluexp-classification/index.html"
     summary: 让您的应用程序数据和云环境做好隐私准备。
     tags: all,governance,aws,azure,gcp
-  - title: 云操作(计算)
+  - title: 云运营
     icon: "./media/icon-compute.png"
     url: "../bluexp-cloud-ops/index.html"
     summary: 深入了解您的云计算支出并确定潜在节省量。
@@ -107,7 +102,7 @@ product-family:
     url: "../bluexp-cloud-volumes-service-gcp/index.html"
     summary: 保护，保护和加速文件存储。
     tags: all,storage,gcp
-  - title: 复制和同步(Cloud Sync)
+  - title: 复制和同步
     icon: "./media/icon-sync.png"
     url: "../bluexp-copy-sync/index.html"
     summary: 在内部数据存储和云数据存储之间同步数据。
@@ -137,7 +132,7 @@ product-family:
     url: "../bluexp-economic-efficiency/index.html"
     summary: 确定当前或预测的低容量集群、并实施数据分层或其他容量建议。
     tags: all,governance
-  - title: 边缘缓存(全局文件缓存)
+  - title: 边缘缓存
     icon: "./media/icon-cache.png"
     url: "../bluexp-edge-caching/index.html"
     summary: 为分布式员工实现实时全局文件共享。
@@ -167,7 +162,7 @@ product-family:
     url: "../bluexp-operational-resiliency/index.html"
     summary: 实施自动化固件和软件配置风险修复、以保持ONTAP 集群的运行状况。
     tags: all,health
-  - title: 修复(AppTemplate)
+  - title: 修复
     icon: "./media/icon-app-template.png"
     url: "../bluexp-remediation/index.html"
     summary: 在BlueXP中自动执行操作、以加快配置速度并消除手动工作。
@@ -187,7 +182,7 @@ product-family:
     url: "../active-iq/learn_BlueXP_sustainability.html"
     summary: 分析存储系统的可持续性。
     tags: all,governance
-  - title: 分层(云分层)
+  - title: 分层
     icon: "./media/icon-tiering.png"
     url: "../bluexp-tiering/index.html"
     summary: 将内部 ONTAP 存储扩展到云。
