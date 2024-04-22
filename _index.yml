@@ -154,11 +154,6 @@ product-family:
     url: "../bluexp-ransomware-protection/index.html"
     summary: 检测可能导致勒索软件攻击的异常情况。保护和恢复工作负载。
     tags: all,protection
-  - title: 修复
-    icon: "./media/icon-app-template.png"
-    url: "../bluexp-remediation/index.html"
-    summary: 在BlueXP中自动执行操作、以加快配置速度并消除手动工作。
-    tags: all,health
   - title: Replication
     icon: "./media/icon-replication.png"
     url: "../bluexp-replication/index.html"
