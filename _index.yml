@@ -50,7 +50,7 @@ product-family:
     summary: 以编程方式管理基于云的资源。
     tags: all,api
   - title: 自动化目录
-    icon: "./media/icon-api.png"
+    icon: "./media/icon-automation.png"
     url: https://docs.netapp.com/us-en/netapp-automation/solutions/bac-overview.html
     summary: 使用脚本化解决方案自动部署和集成NetApp产品和服务。
     tags: all,governance
@@ -100,7 +100,7 @@ product-family:
     tags: all,health
     summary: 提供可操作的智能信息，以实现最佳存储运行状况。
   - title: 数字电子钱包
-    icon: "./media/digital-wallet.png"
+    icon: "./media/icon-digital-wallet.png"
     url: "../bluexp-digital-wallet/index.html"
     tags: all,governance
     summary: 管理和监控许可证和订阅。
