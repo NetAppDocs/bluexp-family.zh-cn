@@ -9,7 +9,7 @@ product-family:
     class: active
   - title: API
     tags: api
-  - title: 连接器和帐户
+  - title: 接头和IAM
     tags: admin
   - title: 扩展
     tags: extension
@@ -19,6 +19,8 @@ product-family:
     tags: health
   - title: 移动性
     tags: mobility
+  - title: 监控
+    tags: monitoring
   - title: 保护
     tags: protection
   - title: 存储
@@ -27,13 +29,18 @@ product-family:
   - title: 设置和管理
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
-    summary: 了解如何开始使用BlueXP并管理连接器、帐户等。
+    summary: 了解如何开始使用BlueXP  并管理身份和访问管理、连接器等。
     tags: all,admin
   - title: 发行说明
     icon: "./media/icon-docs.png"
     url: "../bluexp-relnotes/index.html"
     summary: 了解整个BlueXP中的新增功能。
     tags: all
+  - title: 警报
+    icon: "./media/icon-alerts.png"
+    url: "../bluexp-alerts/index.html"
+    summary: 查看ONTAP环境中与容量、可用性、性能、保护和安全相关的问题。
+    tags: all,monitoring
   - title: 适用于 NetApp ONTAP 的 Amazon FSX
     icon: "./media/icon-fsx.png"
     url: "../bluexp-fsx-ontap/index.html"
