@@ -219,9 +219,10 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">要为Cloud Volumes ONTAP启用以下关键工作流、需要将NetApp支持站点凭据与您的BlueXP  组织相关联：</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">将NSS凭据与您的BlueXP  组织相关联与与与BlueXP  用户登录相关联的NSS帐户不同。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">这些NSS凭据与您的特定BlueXP  组织ID相关联。属于BlueXP  组织的用户可以从*Support &gt; NSS Management*访问这些凭据。</block>
-  <block id="9dab50acf79061ac1750da73c6252b67" category="sidebar">接头和IAM</block>
   <block id="423e555c5ec3885f2bb5d9d2d6627f63" category="sidebar">监控</block>
   <block id="a0174df45f2d1f45e08cc7d39acff81f" category="sidebar">了解如何开始使用BlueXP  并管理身份和访问管理、连接器等。</block>
   <block id="df583ae7ba964fd4806b55904da81813" category="sidebar">警报</block>
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">查看ONTAP环境中与容量、可用性、性能、保护和安全相关的问题。</block>
+  <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">连接器</block>
+  <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">身份和访问管理</block>
 </blocks>

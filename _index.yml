@@ -9,14 +9,16 @@ product-family:
     class: active
   - title: API
     tags: api
-  - title: 接头和IAM
-    tags: admin
+  - title: 连接器
+    tags: connectors
   - title: 扩展
     tags: extension
   - title: 监管
     tags: governance
   - title: 运行状况
     tags: health
+  - title: 身份和访问管理
+    tags: iam
   - title: 移动性
     tags: mobility
   - title: 监控
@@ -30,7 +32,7 @@ product-family:
     icon: "./media/icon-admin.png"
     url: "../bluexp-setup-admin/index.html"
     summary: 了解如何开始使用BlueXP  并管理身份和访问管理、连接器等。
-    tags: all,admin
+    tags: all,connectors,iam
   - title: 发行说明
     icon: "./media/icon-docs.png"
     url: "../bluexp-relnotes/index.html"
