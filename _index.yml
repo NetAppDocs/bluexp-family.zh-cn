@@ -136,7 +136,7 @@ product-family:
   - title: 内部 ONTAP 集群
     icon: "./media/icon-onprem.png"
     url: "../bluexp-ontap-onprem/index.html"
-    summary: 使用System Manager和BlueXP的数据服务从BlueXP管理您的NetApp AFF 和FAS 系统。
+    summary: 使用System Manager和BlueXP  的数据服务从BlueXP  管理内部ONTAP集群。
     tags: all,storage
   - title: 运营故障恢复能力
     icon: "./media/icon-op-resiliency.png"

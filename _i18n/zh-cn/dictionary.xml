@@ -88,7 +88,6 @@
   <block id="83f1d9ca1a0c4c2fc51a371c0d773f76" category="sidebar">保护</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">存储</block>
   <block id="800627e5502a4be1f5e84b9c5fdc990e" category="sidebar">了解整个BlueXP中的新增功能。</block>
-  <block id="19874606c485ce682436c45308e50186" category="sidebar">使用System Manager和BlueXP的数据服务从BlueXP管理您的NetApp AFF 和FAS 系统。</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">开始之前</block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成后</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="doc">使用自助支持选项</block>
@@ -225,4 +224,5 @@
   <block id="2d5c8aeda2ab373d4a288e3bb0e951b0" category="sidebar">查看ONTAP环境中与容量、可用性、性能、保护和安全相关的问题。</block>
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">连接器</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">身份和访问管理</block>
+  <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">使用System Manager和BlueXP  的数据服务从BlueXP  管理内部ONTAP集群。</block>
 </blocks>
