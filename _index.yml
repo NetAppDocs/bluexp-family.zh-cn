@@ -27,6 +27,8 @@ product-family:
     tags: protection
   - title: 存储
     tags: storage
+  - title: 工作负载
+    tags: workloads
   tiles:
   - title: 设置和管理
     icon: "./media/icon-admin.png"
@@ -178,3 +180,8 @@ product-family:
     url: "../bluexp-volume-caching/index.html"
     summary: 创建可写缓存卷、以加快数据访问速度或从访问量较多的卷卸载流量。
     tags: all,mobility
+  - title: 工作负载
+    icon: "./media/icon-workloads.png"
+    url: "../workload-family"
+    summary: 使用Amazon FSx for NetApp ONTAP设计、设置和运行关键工作负载。
+    tags: all,workloads

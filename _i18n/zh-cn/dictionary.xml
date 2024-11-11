@@ -225,4 +225,6 @@
   <block id="fe4a785cf549e843e958f443c4baf0fe" category="sidebar">连接器</block>
   <block id="22bdd8c71cc34511ea88881e20f7ca21" category="sidebar">身份和访问管理</block>
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">使用System Manager和BlueXP  的数据服务从BlueXP  管理内部ONTAP集群。</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作负载</block>
+  <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">使用Amazon FSx for NetApp ONTAP设计、设置和运行关键工作负载。</block>
 </blocks>
