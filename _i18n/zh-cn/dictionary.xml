@@ -15,7 +15,6 @@
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">以编程方式管理基于云的资源。</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
-  <block id="7f0915fd413dcc718e35e39d644d92ac" category="sidebar">适用于核心业务应用程序的高性能文件存储服务。</block>
   <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">备份和还原云和内部数据。</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">让您的应用程序数据和云环境做好隐私准备。</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">在内部数据存储和云数据存储之间同步数据。</block>
@@ -24,7 +23,6 @@
   <block id="1264ff6a809549b27ab6285b6ab793f2" category="sidebar">让您的云存储更经济实惠，更智能，更合规，更安全。</block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="sidebar">适用于 Google Cloud 的 Cloud Volumes Service</block>
   <block id="862d06f5b0779c31053bcadc07e8028b" category="sidebar">保护，保护和加速文件存储。</block>
-  <block id="a17d9dd4943af64ba04db4529621baf0" category="sidebar">深入了解您的云计算支出并确定潜在节省量。</block>
   <block id="8c340dc334134096f68b880b42a8692c" category="sidebar">Replication</block>
   <block id="852e5aa5bab2b81469e97f26b6e2b7f3" category="sidebar">在存储系统之间复制数据以支持备份和灾难恢复。</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
@@ -201,7 +199,6 @@
   <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品区域浏览文档、或者使用上述搜索功能在BlueXP文档中的任意位置查找内容。</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">备份和恢复</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">分类</block>
-  <block id="5b942e8f71976a7f4120006aa3ac54cc" category="sidebar">云运营</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">复制和同步</block>
   <block id="337c62c6b6eb7319bae58701105e889c" category="sidebar">分层</block>
   <block id="7478f8f98c41fc2f5747e6f31892fe6f" category="sidebar">勒索软件保护</block>
@@ -227,4 +224,5 @@
   <block id="795fd87bfd8c421238aba4220620e3bd" category="sidebar">使用System Manager和BlueXP  的数据服务从BlueXP  管理内部ONTAP集群。</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作负载</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">使用Amazon FSx for NetApp ONTAP设计、设置和运行关键工作负载。</block>
+  <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">Azure中适用于核心业务应用程序的高性能文件存储服务。</block>
 </blocks>

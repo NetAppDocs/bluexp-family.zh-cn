@@ -73,7 +73,7 @@ product-family:
   - title: Azure NetApp Files
     icon: "./media/icon-anf.png"
     url: "../bluexp-azure-netapp-files/index.html"
-    summary: 适用于核心业务应用程序的高性能文件存储服务。
+    summary: Azure中适用于核心业务应用程序的高性能文件存储服务。
     tags: all,storage,azure
   - title: 备份和恢复
     icon: "./media/icon-backup.png"
@@ -85,11 +85,6 @@ product-family:
     url: "../bluexp-classification/index.html"
     summary: 让您的应用程序数据和云环境做好隐私准备。
     tags: all,governance,aws,azure,gcp
-  - title: 云运营
-    icon: "./media/icon-compute.png"
-    url: "../bluexp-cloud-ops/index.html"
-    summary: 深入了解您的云计算支出并确定潜在节省量。
-    tags: all,aws,extension
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: "../bluexp-cloud-volumes-ontap/index.html"
