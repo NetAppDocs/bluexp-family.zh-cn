@@ -79,7 +79,6 @@
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">从支持注册页面找到您的帐户ID序列号。</block>
   <block id="50a1dc01b7312307c34a888071586955" category="list-text">复制上述第2步中的帐户序列号、完成安全检查、然后确认您已阅读NetApp的全球数据隐私政策。</block>
   <block id="7a45e6298bb69116e2c6db653fb88884" category="sidebar">所有BlueXP文档</block>
-  <block id="5e2f5f3c24ae8c6ab3eca618826b0e23" category="sidebar">扩展</block>
   <block id="5a935787d6f091fc760443ab4c491465" category="sidebar">监管</block>
   <block id="605669cab962bf944d99ce89cf9e58d9" category="sidebar">运行状况</block>
   <block id="340a76e3aef8e862f5fd79411261b297" category="sidebar">移动性</block>
@@ -196,7 +195,6 @@
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">有关与云提供商文件服务、其基础架构或使用该服务的任何解决方案相关的技术支持、请参阅该产品的BlueXP文档中的"获得帮助"。</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">要获得针对BlueXP及其存储解决方案和服务的技术支持、请使用下面所述的支持选项。</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp使用Microsoft Entra ID作为特定于支持和许可的身份验证服务的身份提供程序。</block>
-  <block id="ce6ca783caae4b6e998ea6268a37dfc6" category="summary">NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品区域浏览文档、或者使用上述搜索功能在BlueXP文档中的任意位置查找内容。</block>
   <block id="be062cdcabbb3055334e8f19b4bdf378" category="sidebar">备份和恢复</block>
   <block id="5c9335b28e6277ddbe0137f04e5e58a7" category="sidebar">分类</block>
   <block id="e216b7a924341f796bca310d1d812baf" category="sidebar">复制和同步</block>
@@ -225,4 +223,7 @@
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作负载</block>
   <block id="c2f4c01ba651c0bc1e3f5840352d4723" category="sidebar">使用Amazon FSx for NetApp ONTAP设计、设置和运行关键工作负载。</block>
   <block id="6dcd21898198aef6fd1b4c762e770d69" category="sidebar">Azure中适用于核心业务应用程序的高性能文件存储服务。</block>
+  <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品领域浏览文档或使用上面的搜索来查找内容。</block>
+  <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
+  <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">从 BlueXP 访问和管理您的 Keystone 订阅。</block>
 </blocks>

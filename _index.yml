@@ -1,8 +1,8 @@
 ---
 product-family:
   title: BlueXP文档
-  lead: NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品区域浏览文档、或者使用上述搜索功能在BlueXP文档中的任意位置查找内容。
-  summary: NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品区域浏览文档、或者使用上述搜索功能在BlueXP文档中的任意位置查找内容。
+  lead: NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品领域浏览文档或使用上面的搜索来查找内容。
+  summary: NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品领域浏览文档或使用上面的搜索来查找内容。
   sidebarlinks:
   - title: 全部
     tags: all
@@ -11,8 +11,6 @@ product-family:
     tags: api
   - title: 连接器
     tags: connectors
-  - title: 扩展
-    tags: extension
   - title: 监管
     tags: governance
   - title: 运行状况
@@ -129,6 +127,11 @@ product-family:
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"
     summary: 发现和管理Google帐户中的云存储分段。
+    tags: all,storage
+  - title: Keystone
+    icon: "./media/icon-keystone.png"
+    url: "../keystone-staas/index.html"
+    summary: 从 BlueXP 访问和管理您的 Keystone 订阅。
     tags: all,storage
   - title: 内部 ONTAP 集群
     icon: "./media/icon-onprem.png"
