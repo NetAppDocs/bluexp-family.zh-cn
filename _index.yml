@@ -88,11 +88,6 @@ product-family:
     url: "../bluexp-cloud-volumes-ontap/index.html"
     summary: 让您的云存储更经济实惠，更智能，更合规，更安全。
     tags: all,storage,aws,azure,gcp
-  - title: 适用于 Google Cloud 的 Cloud Volumes Service
-    icon: "./media/icon-cvs.png"
-    url: "../bluexp-cloud-volumes-service-gcp/index.html"
-    summary: 保护，保护和加速文件存储。
-    tags: all,storage,gcp
   - title: 复制和同步
     icon: "./media/icon-sync.png"
     url: "../bluexp-copy-sync/index.html"
@@ -123,6 +118,11 @@ product-family:
     url: "../bluexp-economic-efficiency/index.html"
     summary: 确定当前或预测的低容量集群、并实施数据分层或其他容量建议。
     tags: all,governance
+  - title: Google Cloud NetApp卷
+    icon: "./media/icon-cvs.png"
+    url: "../bluexp-google-cloud-netapp-volumes/index.html"
+    summary: 保护，保护和加速文件存储。
+    tags: all,storage,gcp
   - title: Google Cloud 存储
     icon: "./media/icon-google-cloud-storage.png"
     url: "../bluexp-google-cloud-storage/index.html"

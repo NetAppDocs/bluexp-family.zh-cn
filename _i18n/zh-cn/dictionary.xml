@@ -226,4 +226,5 @@
   <block id="61c23fb0066e4005db4fe5ccd0835180" category="sidebar">NetApp BlueXP为您的企业提供了一个控制平台、用于在内部和云环境中构建、保护和管理数据。按产品领域浏览文档或使用上面的搜索来查找内容。</block>
   <block id="1ce2096c300f78bbb8389ca2603e6dd9" category="sidebar">Keystone</block>
   <block id="70a67804758eee026e9f460e64b2c1d7" category="sidebar">从 BlueXP 访问和管理您的 Keystone 订阅。</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="sidebar">Google Cloud NetApp卷</block>
 </blocks>
