@@ -15,7 +15,6 @@
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="11ab9ad674d9803df9eb747b060ea178" category="sidebar">以编程方式管理基于云的资源。</block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="sidebar">Azure NetApp Files</block>
-  <block id="a3460dd01b0f0c32632246bf209e730f" category="sidebar">备份和还原云和内部数据。</block>
   <block id="2090f2d846793f153b9266c648b079ef" category="sidebar">让您的应用程序数据和云环境做好隐私准备。</block>
   <block id="9f47c7f98e6626074067a711fc1863ea" category="sidebar">在内部数据存储和云数据存储之间同步数据。</block>
   <block id="c6844dc3fe4e51f03d9c9209b1f58fc4" category="sidebar">将内部 ONTAP 存储扩展到云。</block>
@@ -122,8 +121,6 @@
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*更新案例注释*：提供有关您的问题的更多详细信息、或者选择*上传文件*最多附加五个文件。</block>
   <block id="723ffd15eb7b4453afd0fa0af42c04c3" category="sidebar">经济效率</block>
   <block id="068ff21264880d35ad4153fad90e3828" category="sidebar">确定当前或预测的低容量集群、并实施数据分层或其他容量建议。</block>
-  <block id="efc0c4f71709b261c273fb935757cfae" category="sidebar">运营故障恢复能力</block>
-  <block id="00ac035a0893138aed2f04da8c8223d3" category="sidebar">实施自动化固件和软件配置风险修复、以保持ONTAP 集群的运行状况。</block>
   <block id="6c253a8aff5dfa835a77545b3006abc8" category="sidebar">内部 ONTAP 集群</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">设置和管理</block>
@@ -226,4 +223,5 @@
   <block id="bbbc9b55f08bfe80f146b5207bdb7728" category="paragraph">NetApp以多种方式为BlueXP及其云服务提供支持。我们提供全天候 (24/7) 的大量免费自助支持选项，例如知识库 (KB) 文章和社区论坛。您的支持注册包含通过网络工单获取的远程技术支持。</block>
   <block id="759d32287efdf88cd8ac71dccc0ecf8d" category="inline-image-macro">屏幕截图显示了帐户序列号、绿色复选框和文本“已注册支持”。</block>
   <block id="4c441b388bebcddf8c08fb782095b864" category="paragraph"><block ref="4c441b388bebcddf8c08fb782095b864" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4102ee4dc04d405e046bf0c00b9f15a7" category="sidebar">备份和恢复云和本地数据。</block>
 </blocks>
